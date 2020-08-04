@@ -1,5 +1,9 @@
+
+
+
+
 body{
-   font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Sawarabi Mincho', sans-serif;
     font-size:1.3vw;
     margin:0 0;
    
@@ -58,8 +62,6 @@ body{
     height:10%;
     margin-top:5%;
 }
-
-
 
 /*============
 nav
@@ -267,21 +269,4 @@ nav {
     cursor: pointer;
     transition: all .5s;
   }
-  /*============
-  main
-  =============*/
-  main {
-    padding: 50px;
-  }
-  main h1 {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-    text-align: center;
-  }
-  /*============
-  body
-  =============*/
-  body {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
-  }
+  

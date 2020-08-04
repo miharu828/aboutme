@@ -1,0 +1,48 @@
+body{
+    font-family: 'Sawarabi Mincho', sans-serif;
+    margin:0 0;
+   
+}
+
+.header {
+    position: absolute;
+    left: -4vw;
+    top: 0;
+    width: 104vw;
+    height: 3.2vh;
+    background-color: black;
+    color: black;
+    z-index: 3;
+}
+
+.card {
+    text-align: center;
+    width: 72%;
+    margin-left: 12%;
+    margin-right: 15%;
+    font-size: 3.6vw;
+    line-height: 3.5vh;
+}
+
+
+.title img {
+    width: 31vw;
+    margin-top: 4vh;
+    margin-left: 31vw;
+}
+
+.head img {
+    width: 9vw;
+    position: relative;
+    top: 4vh;
+    margin-left: 43vw;
+    margin-right: 48vw;
+    margin-bottom: 2vh;
+}
+
+.footer{
+    background-color: black;
+    width:100vw;
+    height:10%;
+    margin-top:5%;
+}
